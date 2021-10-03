@@ -1,0 +1,15 @@
+{
+    "name": "miyacorata/wurfel",
+    "description": "Webhook based auto deploy assist system",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "K Miyano",
+            "email": "miyano@miyacorata.net"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.3"
+    }
+}
