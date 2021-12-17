@@ -1,6 +1,6 @@
 {
     "name": "miyacorata/wurfel",
-    "description": "Webhook based auto deploy assist system",
+    "description": "Webhook based auto deploy assist tool",
     "type": "project",
     "license": "MIT",
     "authors": [
@@ -10,6 +10,7 @@
         }
     ],
     "require": {
-        "guzzlehttp/guzzle": "^7.3"
+        "guzzlehttp/guzzle": "^7.3",
+        "ext-json": "*"
     }
 }
